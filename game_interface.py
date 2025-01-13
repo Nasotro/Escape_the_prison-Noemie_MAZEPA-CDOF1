@@ -97,7 +97,7 @@ class GameInterface:
                 button.pack(side=tk.LEFT, padx=5)
                 self.choice_buttons.append(button)
         for j in range(i+1, len(self.choice_buttons)):
-            self.choice_buttons[j].config(text="", state=tk.DISABLED)
+            self.choice_buttons[j].pack_forget()
 
     def on_choice(self, choice):
         if self.current_function == self.cell_action:
