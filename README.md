@@ -1,4 +1,4 @@
-# Adventure_Game-Noemie_MAZEPA-CDOF1
+# Escape_the_prison-Noemie_MAZEPA-CDOF1
 
 ## Escape the prison
 
@@ -36,8 +36,8 @@ Can you outsmart the guards and escape?
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Noemiemz/Adventure_Game-Noemie_MAZEPA-CDOF1.git
-    cd Adventure_Game-Noemie_MAZEPA-CDOF1
+    git clone https://github.com/Noemiemz/Escape_the_prison-Noemie_MAZEPA-CDOF1.git
+    cd Escape_the_prison-Noemie_MAZEPA-CDOF1
     ```
 
 2. Run the game:
@@ -57,8 +57,8 @@ Here's how you can contribute to Escape the Prison:
 2. **Clone Your Fork**:
 
     ```sh
-    git clone https://github.com/Noemiemz/Adventure_Game-Noemie_MAZEPA-CDOF1.git
-    cd Adventure_Game-Noemie_MAZEPA-CDOF1
+    git clone https://github.com/Noemiemz/Escape_the_prison-Noemie_MAZEPA-CDOF1.git
+    cd Escape_the_prison-Noemie_MAZEPA-CDOF1
     ```
 
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
